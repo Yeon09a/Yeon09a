@@ -10,7 +10,7 @@ You can contact me.
 私はヨナです。ゲーム開発を勉強しています。主にUnityを使っていて、現在Unreal Engineを勉強しています。<br/>
 PCゲームと女性向けゲーム、特に乙女ゲームに興味があります。そしてmedia artにも興味があります。<br/>
 どうぞよろしくお願いします。👋<br/><br/>
-<br/><br/>
+
 ここで連絡できます。
 * email : kimyeona0926@gmail.com
 
