@@ -16,4 +16,5 @@ media artとPCゲーム、女性向けゲーム、特に乙女ゲームに興味
 ここで連絡できます。
 * email : kimyeona0926@gmail.com
 
+<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon09a&langs_count=4&layout=compact)
