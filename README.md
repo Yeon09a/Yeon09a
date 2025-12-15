@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Yeona
-My name is Yeona and I'm studying Game Development. I mainly use Unity and am currently studying Unreal Engine.<br/>
-I'm interested in RPG games and media art. <br/>
-Thank you👋<br/><br/>
+Hi, I’m Yeona Kim, a game developer who continually strives to improve in order to create games that players can genuinely care about.
+I am currently part of a team developing an indie multiplayer game in Unity, strengthening my skills through hands-on experience and self-driven learning.
 
-私はヨナです。ゲーム開発を勉強しています。主にUnityを使っていて、現在Unreal Engineを勉強しています。<br/>
-media artとPCゲーム、女性向けゲーム、特に乙女ゲームに興味があります。<br/>
-どうぞよろしくお願いします。👋<br/><br/>
+I share the thoughts, challenges, and insights I gain throughout the development process, and aim to learn from diverse perspectives through discussion.
+
+Alongside development, I am also actively improving my English and Japanese to engage more deeply with global development resources and perspectives.
 
 You can contact me.<br/>
-ここで連絡できます。
 * email : kimyeona0926@gmail.com
 
 <br/><br/>
