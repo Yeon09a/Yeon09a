@@ -9,5 +9,3 @@ Alongside development, I am also actively improving my English and Japanese to e
 You can contact me.<br/>
 * email : kimyeona0926@gmail.com
 
-<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon09a&langs_count=4&layout=compact)
